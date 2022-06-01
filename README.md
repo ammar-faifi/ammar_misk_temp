@@ -1,3 +1,3 @@
 # DSI First Repo
 
-Some describtion here.
+Some descriptions here.
